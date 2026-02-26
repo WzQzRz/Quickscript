@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WzQzRz/QuickScript/main/Quick.lua"))()
